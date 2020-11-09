@@ -1,6 +1,9 @@
-# data-science-template
+# project
 
 ![Tests](https://github.com/jeremyjordan/data-science-template/workflows/Tests/badge.svg?branch=master)
+
+> Note: Search for the keyword "project" when adapting this template.
+
 
 (2-3 sentences introducing project)
 
@@ -18,7 +21,7 @@ ColabCode(port=10000, mount_drive=True)
 5. Clone the repo.
 
 ```
-git clone https://github.com/jeremyjordan/flower-classifier.git
+git clone https://github.com/jeremyjordan/project.git
 ```
 
 6. Run `make colab` to set up the project on your Colab instance (or run `make init` if running locally).
