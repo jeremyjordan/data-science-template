@@ -1,6 +1,6 @@
 # project
 
-![Tests](https://github.com/jeremyjordan/data-science-template/workflows/Tests/badge.svg?branch=master)
+![Tests](https://github.com/jeremyjordan/data-science-template/workflows/Tests/badge.svg?branch=main)
 
 > Note: Search for the keyword "project" when adapting this template.
 
