@@ -6,5 +6,9 @@
     "python.linting.flake8Enabled": true,
     "python.linting.enabled": true,
     "editor.formatOnSave": true,
-    "python.linting.pylintEnabled": false
+    "python.linting.pylintEnabled": false,
+    "files.exclude": {
+        ".coverage*": true,
+        ".pytest_cache": true
+    },
 }
