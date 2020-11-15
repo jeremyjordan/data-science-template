@@ -10,5 +10,5 @@
     "files.exclude": {
         ".coverage*": true,
         ".pytest_cache": true
-    },
+    }
 }
