@@ -2,7 +2,7 @@
 
 ![Tests](https://github.com/jeremyjordan/data-science-template/workflows/Tests/badge.svg?branch=main) ![Formatting](https://github.com/jeremyjordan/data-science-template/workflows/Linter/badge.svg?branch=main)
 
-> Note: Search for the keyword "project" when adapting this template.
+> Note: Search for the keyword "project" when adapting this template. Also remember to update the badge URLs above.
 
 
 (2-3 sentences introducing project)

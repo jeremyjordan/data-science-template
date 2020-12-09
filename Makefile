@@ -9,7 +9,7 @@ format:
 	flake8
 
 test:
-	python3 -m pytest tests/ --cov=project/ --cov-report term-missing --cov-config=tests/.coveragerc
+	python3 -m pytest tests/ --cov=project_name/ --cov-report term-missing --cov-config=tests/.coveragerc
 
 check:
 	pre-commit run --all-files
